@@ -1,4 +1,4 @@
-# Lern-Periode 5 / 6 / 7 / 8
+# Lern-Periode 1
 
 - Name: Lias Albiez
 - Zeitraum: 21.08.2026 bis 25.09.2026
@@ -6,7 +6,7 @@
 ## Grob-Planung
 
 ### Noten
-> Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+>Nichts
 
 ### Veränderungen
 > Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?

@@ -1,2 +1,2 @@
-# Lern-Atelier-1
+# Lern-Atelier
 Allgemeines repository für das Lernatelier

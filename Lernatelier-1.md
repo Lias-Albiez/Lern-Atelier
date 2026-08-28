@@ -31,14 +31,14 @@
 - Beim Modul 431, ein Arbeitsauftrag abschliessen und den Moodle Test dazu machen.
 -  Mich beim Cisco Academy Javascript 1 Kurs zurecht finden und durch die Einleitung durch gehen.
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich alle meine Ziele erfolgreich abgeschlossen, ich habe in der ersten Lektion auf W3 schools gearbeitet, dannach auf Moodle den Arbeitsauftrag abgeschlossen und da ich noch viel Zeit hatte, noch ein Moodle-Arbeitsblatt gelöst und mich mit dem rest der Zeit, noch auf dem Cisco Kurs herumgetastet.
 
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- Mission 5 und 6 beim Modul 319 repetieren, um mich auf die OBA vorzubereiten.
+- Am C# Kurs auf W3 schools weiterarbeiten, bis und mit den Array aufträgen.
+- Am Cisco Academy JavaScript Kurs weiterarbeten und da das Modul 1 abschliessen.
 
 (Heute habe ich... (50-100 Wörter))
 

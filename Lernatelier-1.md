@@ -36,9 +36,9 @@ Heute habe ich alle meine Ziele erfolgreich abgeschlossen, ich habe in der erste
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [X]Mission 5 und 6 beim Modul 319 repetieren, um mich auf die OBA vorzubereiten.
-- [X]Am C# Kurs auf W3 schools weiterarbeiten, bis und mit den Array aufträgen.
-- [X]Am Cisco Academy JavaScript Kurs weiterarbeten und da das Modul 1 abschliessen.
+- [ ]Mission 5 und 6 beim Modul 319 repetieren, um mich auf die OBA vorzubereiten.
+- [ ]Am C# Kurs auf W3 schools weiterarbeiten, bis und mit den Array aufträgen.
+- [ ]Am Cisco Academy JavaScript Kurs weiterarbeten und da das Modul 1 abschliessen.
 
 (Heute habe ich... (50-100 Wörter))
 

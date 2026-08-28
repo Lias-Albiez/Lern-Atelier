@@ -18,7 +18,7 @@
 
 ### Generelle Ziele
 > Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
-- Auf W3 Schools, den C# und den Kurs abzuschliessen und an dem SQL Kurs fortzuschritten.
+[ ] Auf W3 Schools, den C# und den Kurs abzuschliessen und an dem SQL Kurs fortzuschritten.
 - Beim Cisco Academy JavaScript 1 Kurs, die Module 1,2,3 Abschliessen und somit meine JavaScript Grundlagen ausbauen.
 - Einen Budget‑Tracker mit C# programmieren, der Einnahmen und Ausgaben speichert und Kategoriert.
 

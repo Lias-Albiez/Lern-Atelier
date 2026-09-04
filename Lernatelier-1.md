@@ -41,5 +41,15 @@ Heute habe ich alle meine Ziele erfolgreich abgeschlossen, ich habe in der erste
 
 (Heute habe ich meine Ziele erreicht, ich hatte genug Zeit um beim W3 Schools Kurs, sogar noch weiter zu arbeiten, ich habe das Modul 1 bim Cisco Kurs mit 86% abgeschlossen.
 
+### Planung 04.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [X] Mission 5 und 6 beim Modul 319 repetieren, um mich auf die OBA vorzubereiten.
+- [X] Den C# Kurs auf W3 schools repetieren und die wichtigsten Themen nochmals anschauen.
+- [X] Am Cisco Academy JavaScript Kurs, bei Modul 2 weiterarbeten.
+
+(
+
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))

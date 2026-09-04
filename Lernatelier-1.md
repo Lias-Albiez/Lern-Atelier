@@ -47,6 +47,7 @@ Heute habe ich alle meine Ziele erfolgreich abgeschlossen, ich habe in der erste
 - [X] Mission 5 und 6 beim Modul 319 repetieren, um mich auf die OBA vorzubereiten.
 - [X] Den C# Kurs auf W3 schools repetieren und die wichtigsten Themen nochmals anschauen.
 - [X] Am Cisco Academy JavaScript Kurs, bei Modul 2 weiterarbeten.
+Heute konnte ich gut arbeiten, ich konnte alle Aufträge erledigen. Ich habe am schluss noch ein Full-Course C# Tutorial auf Youtube begonnen zu schauen, um sicher zu gehen dass ich alles bis jetzt nötige kann und um falls nötig, noch lücken zu schliessen.
 
 (
 

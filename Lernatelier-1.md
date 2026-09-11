@@ -49,7 +49,13 @@ Heute habe ich alle meine Ziele erfolgreich abgeschlossen, ich habe in der erste
 - [X] Am Cisco Academy JavaScript Kurs, bei Modul 2 weiterarbeten.
 Heute konnte ich gut arbeiten, ich konnte alle Aufträge erledigen. Ich habe am schluss noch ein Full-Course C# Tutorial auf Youtube begonnen zu schauen, um sicher zu gehen dass ich alles bis jetzt nötige kann und um falls nötig, noch lücken zu schliessen.
 
-(
+### Planung 11.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [X] Am Modul 319 weiterarbeiten, damit ich mindestens mit Mission 7 fertig werden.
+- [X] Den C# Kurs auf W3 schools repetieren und die wichtigsten Themen nochmals anschauen.
+- [X] Am Cisco Academy JavaScript Kurs, bei Modul 2 weiterarbeten und so weit wie möglich kommen.
+
 
 
 ## Lernperiode Reflexion

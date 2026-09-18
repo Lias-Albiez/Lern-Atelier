@@ -58,6 +58,14 @@ Heute konnte ich gut arbeiten, ich konnte alle Aufträge erledigen. Ich habe am 
 Heute konnte ich eigentlich gut arbeiten, ich habe alle Aufträge die ich mir für heute vorgenommen habe, erfüllt. Ich habe am schluss noch am Full-Course C# Tutorial auf Youtube weitergeschaut, um sicher zu gehen dass ich alles bis jetzt nötige kann und um falls nötig, noch lücken zu schliessen.
 
 
+### Planung 18.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [X] Am Modul 319 weiterarbeiten, damit ich mindestens mit Mission 8 fertig werden.
+- [X] Den C# Kurs auf W3 schools repetieren und die wichtigsten Themen nochmals anschauen, womöglich beim begonnenen SQL Kurs weiterfahren.
+- [X] Am Cisco Academy JavaScript Kurs, bei Modul 2 weiterarbeten und so weit wie möglich kommen.
+- [ ] 
+
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))

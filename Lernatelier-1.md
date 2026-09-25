@@ -19,7 +19,7 @@
 > Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 - [ ] Auf W3 Schools, den C# und den Kurs abzuschliessen und an dem SQL Kurs fortzuschritten.
 - [ ] Beim Cisco Academy JavaScript 1 Kurs, die Module 1,2,3 Abschliessen und somit meine JavaScript Grundlagen ausbauen.
-- [ ] Einen Grösseres Projekt mit C# programmieren, z.B ein Budget Rechner... 
+- [ ] Einen Grösseres Projekt mit C# programmieren, z.B ein kleines Game... 
 
 ## Tagesplanungen
 
@@ -66,6 +66,13 @@ Heute konnte ich eigentlich gut arbeiten, ich habe alle Aufträge die ich mir f�
 - [X] Am Cisco Academy JavaScript Kurs, bei Modul 2 weiterarbeten und so weit wie möglich kommen.
 Heute konnte ich gut arbeiten, ich konnte alle Aufträge erledigen. Ich habe am schluss noch am Full-Course C# Tutorial auf Youtube weitergeschaut, um sicher zu gehen dass ich alles bis jetzt nötige kann und um falls nötig, noch lücken zu schliessen.
 
+### Planung 25.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [X] Das Modul 319 Abschliessen.
+- [X] Ein kleines Kampf spiel erstellen, bei dem man dem Gegner schaden zufügen kann, oder sich selbst heilen kann. (Spieler und Gegner wechseln sich ab)
+- [X] Am Cisco Academy JavaScript Kurs, bei Modul 2 weiterarbeten und so weit wie möglich kommen.
+Heute konnte ich gut arbeiten, ich konnte alle Aufträge erledigen. Ich habe am schluss noch am Full-Course C# Tutorial auf Youtube weitergeschaut, um sicher zu gehen dass ich alles bis jetzt nötige kann und um falls nötig, noch lücken zu schliessen. Ich habe auch das spiel fertiggestellt.
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+In dieser Lernperiode habe ich das Modul 319 fertiggestellt, beim Cisco programming Kurs bis mitte Modul 3 gearbeitet und ein kleines Game erstellt, somit habe ich meine Ziele für diese Lernperiode erfüllt.

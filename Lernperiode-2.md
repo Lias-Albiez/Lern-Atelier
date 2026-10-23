@@ -22,7 +22,7 @@ Mehr Programmieren
 ### Planung 23.10.2026
 - [X] ...Für die Abschlussprüfung des Modul 319 repetieren...
 - [X] ...Am C# Video auf Youtube weiterschauen und dazu Notizen machen...
-- [ ] Falls noch Zeit übrig ist, mache ich noch am Cisco Programming Kurs weiter
+- [X] Falls noch Zeit übrig ist, mache ich noch am Cisco Programming Kurs weiter
 
 
 #### Tagesreflexion

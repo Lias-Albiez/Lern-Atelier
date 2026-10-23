@@ -1,59 +1,27 @@
 # Lern-Periode 2
 
 - Name: Lias ALbiez
-- Zeitraum: tt.mm.jjjj bis tt.mm.jjjj
+- Zeitraum: 23.10.2026 bis 18.12.2026
 
 ## Grob-Planung
+-Mehr praktisches auszuüben, also mehr programmieren.
 
-...Ihr Text...
 
 ### Veränderungen
-<!--
-Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
--->
+Mehr Programmieren, weniger Theorie.
 
-...Ihr Text...
 
 ### Projekte / neue Technologien
-<!--
-Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
-Verlinken Sie zu den GitHub Repos Ihrer Projekte.
-(Können Sie später nach und nach einfügen.)
--->
-
-...Ihr Text...
+Etwas schwerere projekte programmieren, etwas nützliches.
 
 ### Generelle Ziele
-<!--
-Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
--->
-
-...Ihr Text...
+Mehr Programmieren 
 
 ## Tagesplanungen
-<!--
-Planen Sie die Lernperiode. Dazu planen Sie Arbeitspakete (jeweils für den
-kommenden Arbeitstag) und erstellen am Ende jedes Tages eine kurze Reflexion.
 
-Wenn Sie an einem Tag gefehlt haben, schreiben Sie direkt unter die
-Tagesüberschrift eines dieser Schlüsselwörter allein auf eine Zeile:
-absence, absent, Absenz, abwesend, krank, Krankheit.
--->
-
-### Planung tt.mm.jjjj
-<!--
-Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
-Umfang: ca. 30 - 60 Minuten je Arbeitspaket
-Markieren Sie beendete Arbeitspakete mit einem x.
-
-Beispiele:
-- [ ] noch nicht erledigte Aufgabe
-- [x] erledigte Aufgabe
--->
-
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+### Planung 23.10.2026
+- [X] ...Für die Abschlussprüfung des Modul 319 repetieren...
+- [X] ...Am C# Video auf Youtube weiterschauen und dazu Notizen machen...
 
 
 #### Tagesreflexion

@@ -22,31 +22,15 @@ Mehr Programmieren
 ### Planung 23.10.2026
 - [X] ...Für die Abschlussprüfung des Modul 319 repetieren...
 - [X] ...Am C# Video auf Youtube weiterschauen und dazu Notizen machen...
+- [ ] Falls noch Zeit übrig ist, mache ich noch am Cisco Programming Kurs weiter
 
 
 #### Tagesreflexion
-<!--
-Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
-und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
-Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
+Heute konnte ich einigermassen gut arbeiten, ich habe alle meine heutigen Ziele erreicht. Ich konnte Das Modul 319 gut repetieren, habe das video fast fertig geschaut und konnte am Schluss noch am Cisco Kurs weitermachen.
 
-...Ihr Text...
-
-
-<!--
-Fügen Sie hier die weiteren Tage der Lernperiode ein.
--->
 
 ## Lernperiode Reflexion
 <!--
-Am Ende der Lernperiode schreiben Sie eine Reflexion über die gesamte Lernperiode.
-Mögliche Themen: Wie gut passt Ihr Endresultat zu dem, was Sie sich vorgenommen
-hatten? Unterm Strich, was ist Ihr grösstes Lernresultat? Was nehmen Sie für die
-Zukunft mit aus dieser Lernperiode?
-Umfang: 100 - 200 Wörter (ungefähr 6 - 12 Sätze)
--->
 
 ...Ihr Text...
 

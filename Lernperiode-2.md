@@ -28,6 +28,15 @@ Mehr Programmieren
 #### Tagesreflexion
 Heute konnte ich einigermassen gut arbeiten, ich habe alle meine heutigen Ziele erreicht. Ich konnte Das Modul 319 gut repetieren, habe das video fast fertig geschaut und konnte am Schluss noch am Cisco Kurs weitermachen.
 
+### Planung 30.10.2026
+- [X] ..Ideen für ein neues kleines Projekt für das Lernatelier suchen und aufschreiben.
+- [X] ...Am C# Video auf Youtube weiterschauen und dazu Notizen machen...
+- [X] ..Am Cisco Programming Kurs weitermachen..
+
+
+#### Tagesreflexion
+Heute konnte ich einigermassen gut arbeiten, ich habe alle meine heutigen Ziele erreicht. Ich konnte Das Modul 319 gut repetieren, habe das video fast fertig geschaut und konnte am Schluss noch am Cisco Kurs weitermachen.
+
 
 ## Lernperiode Reflexion
 <!--

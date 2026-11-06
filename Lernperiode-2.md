@@ -24,7 +24,7 @@ Etwas schwerere/grössere projekte programmieren, etwas nützliches.
 
 ### Planung 23.10.2026
 - [X] ...Für die Abschlussprüfung des Modul 319 repetieren...
-- [X] ...Am C# Video auf Youtube weiterschauen und dazu Notizen machen...
+- [X] ...Am C# Video auf Youtube weiterschauen...
 - [X] Falls noch Zeit übrig ist, mache ich noch am Cisco Programming Kurs weiter
 
 
@@ -33,12 +33,22 @@ Heute konnte ich einigermassen gut arbeiten, ich habe alle meine heutigen Ziele 
 
 ### Planung 30.10.2026
 - [X] ..Kleinere C# projekte programmiern, wie z.B ein Währungs-Rechner.
-- [X] ...Am C# Video auf Youtube weiterschauen und dazu Notizen machen...
+- [X] ...Am C# Video auf Youtube weiterschauen...
 - [X] ..Am Cisco Programming Kurs weitermachen..
 
 
 #### Tagesreflexion
 Heute konnte ich alle meine ziele erfüllen, ich habe in den ersten Lektionen, einen Währungsrechner und ein Temparaturs Rechner alleine programmiert und dann am 3.5 stündigen C# Video weitergeschaut(dazu ebenfalls Notizen gemacht. Am schluss hatte ich noch wenig Zeit um am Cisco Kurs weiterzumachen.
+
+
+### Planung 30.10.2026
+- [X] ..Beim C# Kurs auf W3 Schools weiterarbeiten und mindestens den Abschnitt "Methoden" Abschlissen...
+- [X] ...Am C# Video auf Youtube weiterschauen...
+- [X] ..Am Cisco Programming Kurs weitermachen...
+
+
+#### Tagesreflexion
+Heute konnte ich alle meine ziele erfüllen, ich habe in den ersten Lektionen, auf W3 Schools alles bis und mit dem Abschnitt "Methoden" abgeschlossen und dann am 3.5 stündigen C# Video weitergeschaut(dazu ebenfalls Notizen gemacht). Am schluss hatte ich noch wenig Zeit um am Cisco Kurs weiterzumachen.
 
 
 ## Lernperiode Reflexion

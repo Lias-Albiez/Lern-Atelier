@@ -41,7 +41,7 @@ Heute konnte ich einigermassen gut arbeiten, ich habe alle meine heutigen Ziele 
 Heute konnte ich alle meine ziele erfüllen, ich habe in den ersten Lektionen, einen Währungsrechner und ein Temparaturs Rechner alleine programmiert und dann am 3.5 stündigen C# Video weitergeschaut(dazu ebenfalls Notizen gemacht. Am schluss hatte ich noch wenig Zeit um am Cisco Kurs weiterzumachen.
 
 
-### Planung 30.10.2026
+### Planung 6.11.2026
 - [X] ..Beim C# Kurs auf W3 Schools weiterarbeiten und mindestens den Abschnitt "Methoden" Abschlissen...
 - [X] ...Am C# Video auf Youtube weiterschauen...
 - [X] ..Am Cisco Programming Kurs weitermachen...
@@ -50,6 +50,16 @@ Heute konnte ich alle meine ziele erfüllen, ich habe in den ersten Lektionen, e
 #### Tagesreflexion
 Heute konnte ich alle meine ziele erfüllen, ich habe in den ersten Lektionen, auf W3 Schools alles bis und mit dem Abschnitt "Methoden" abgeschlossen und dann am 3.5 stündigen C# Video weitergeschaut(dazu ebenfalls Notizen gemacht). Am schluss hatte ich noch wenig Zeit um am Cisco Kurs weiterzumachen.
 
+### Planung 13.11.2026
+- [X] ...Beim C# Kurs auf W3 Schools weiterarbeiten und mindestens den Abschnitt "Class members" Abschlissen...
+- [X] ...Das C# Video auf Youtube abschliessen...
+- [X] ...Mit Andrei und Jonathan an unserem Projekt (Gym Manager) weiterarbeiten...
+- [ ] ...Am Cisco Kurs weiterarbeiten, falls noch zeit übrig ist...
+
+
+#### Tagesreflexion
+Heute konnte ich alle meine ziele erfüllen, ich habe in den ersten Lektionen, mit Jonathan und Andrei am Projekt weitergearbeitet und wir kamen gut voran und wir konnten ein paar neue funktionen hinzufügen, dannach habe ich das C# Tutorial Video abgeschlossen und dann habe ich den Kurs auf W3 schools bis und mit dem Abschnitt "Class members" abgeschlossen.
+Am schluss hatte ich keine Zeit mehr übrig und ich konnte nicht mehr am Cisco kurs weiterarbeiten.
 
 ## Lernperiode Reflexion
 <!--

@@ -61,6 +61,15 @@ Heute konnte ich alle meine ziele erfüllen, ich habe in den ersten Lektionen, a
 Heute konnte ich alle meine ziele erfüllen, ich habe in den ersten Lektionen, mit Jonathan und Andrei am Projekt weitergearbeitet und wir kamen gut voran und wir konnten ein paar neue funktionen hinzufügen, dannach habe ich das C# Tutorial Video abgeschlossen und dann habe ich den Kurs auf W3 schools bis und mit dem Abschnitt "Class members" abgeschlossen.
 Am schluss hatte ich keine Zeit mehr übrig und ich konnte nicht mehr am Cisco kurs weiterarbeiten.
 
+### Planung 20.11.2026
+- [X] ...Beim C# Kurs auf W3 Schools weiterarbeiten und mindestens den Abschnitt "OPP" Abschlissen...
+- [X] ...Den SQL Kurs repetieren, damit ich das wieder auffrischen kann...
+- [X] ...Mit Andrei und Jonathan an unserem Projekt (Gym Manager) weiterarbeiten...
+- [ ] ...Am Cisco Kurs weiterarbeiten, falls noch zeit übrig ist...
+
+
+#### Tagesreflexion
+
 ## Lernperiode Reflexion
 <!--
 
